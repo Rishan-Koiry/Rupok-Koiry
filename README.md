@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm <a href="https://github.com/Rupok-Koiry">Rupok Koiry</a></h1>
+  <h1>👋 Hi I'm <a href="https://github.com/Rupok-Koiry">Rupok Koiry</a></h1>
   <p>🚀 Tech Enthusiast | 💻 Developer | 🎓 Lifelong Learner</p>
 </div>
 
